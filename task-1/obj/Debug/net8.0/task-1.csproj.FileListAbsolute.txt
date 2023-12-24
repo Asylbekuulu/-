@@ -1,0 +1,14 @@
+/Users/erjanasylbekov/Desktop/Обучение/Промежуточная аттестация/task-1/obj/Debug/net8.0/task-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erjanasylbekov/Desktop/Обучение/Промежуточная аттестация/task-1/obj/Debug/net8.0/task-1.AssemblyInfoInputs.cache
+/Users/erjanasylbekov/Desktop/Обучение/Промежуточная аттестация/task-1/obj/Debug/net8.0/task-1.AssemblyInfo.cs
+/Users/erjanasylbekov/Desktop/Обучение/Промежуточная аттестация/task-1/obj/Debug/net8.0/task-1.csproj.CoreCompileInputs.cache
+/Users/erjanasylbekov/Desktop/Обучение/Промежуточная аттестация/task-1/bin/Debug/net8.0/task-1
+/Users/erjanasylbekov/Desktop/Обучение/Промежуточная аттестация/task-1/bin/Debug/net8.0/task-1.deps.json
+/Users/erjanasylbekov/Desktop/Обучение/Промежуточная аттестация/task-1/bin/Debug/net8.0/task-1.runtimeconfig.json
+/Users/erjanasylbekov/Desktop/Обучение/Промежуточная аттестация/task-1/bin/Debug/net8.0/task-1.dll
+/Users/erjanasylbekov/Desktop/Обучение/Промежуточная аттестация/task-1/bin/Debug/net8.0/task-1.pdb
+/Users/erjanasylbekov/Desktop/Обучение/Промежуточная аттестация/task-1/obj/Debug/net8.0/task-1.dll
+/Users/erjanasylbekov/Desktop/Обучение/Промежуточная аттестация/task-1/obj/Debug/net8.0/refint/task-1.dll
+/Users/erjanasylbekov/Desktop/Обучение/Промежуточная аттестация/task-1/obj/Debug/net8.0/task-1.pdb
+/Users/erjanasylbekov/Desktop/Обучение/Промежуточная аттестация/task-1/obj/Debug/net8.0/task-1.genruntimeconfig.cache
+/Users/erjanasylbekov/Desktop/Обучение/Промежуточная аттестация/task-1/obj/Debug/net8.0/ref/task-1.dll
